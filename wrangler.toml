@@ -1,0 +1,7 @@
+name = "svelte-worker"
+main = "src/index.ts"
+compatibility_date = "2022-10-26"
+account_id = ""
+
+[site]
+bucket = "./web-site/build"
